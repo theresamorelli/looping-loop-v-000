@@ -6,6 +6,4 @@ def looping
 end
 
 #call your method here
-looping do
-
-end
+looping
